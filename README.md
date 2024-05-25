@@ -17,7 +17,7 @@
 * Power BI
 * SQL
 * Tableau
-* Alteryx
+* Excel
 * Python
 * Data analysis
 * Business analysis 
